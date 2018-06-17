@@ -1,0 +1,6 @@
+/home/cherish/temp/learn_cmake/Demo4/build/CMakeFiles/edit_cache.dir
+/home/cherish/temp/learn_cmake/Demo4/build/CMakeFiles/rebuild_cache.dir
+/home/cherish/temp/learn_cmake/Demo4/build/CMakeFiles/Demo.dir
+/home/cherish/temp/learn_cmake/Demo4/build/math/CMakeFiles/edit_cache.dir
+/home/cherish/temp/learn_cmake/Demo4/build/math/CMakeFiles/rebuild_cache.dir
+/home/cherish/temp/learn_cmake/Demo4/build/math/CMakeFiles/MathFunctions.dir

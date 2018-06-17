@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cherish/temp/learn_cmake/Demo5/config.h
+
+/home/cherish/temp/learn_cmake/Demo5/main.cc
+stdio.h
+-
+stdlib.h
+-
+config.h
+/home/cherish/temp/learn_cmake/Demo5/config.h
+math/MatchFunctions.h
+/home/cherish/temp/learn_cmake/Demo5/math/MatchFunctions.h
+math.h
+/home/cherish/temp/learn_cmake/Demo5/math.h
+
+/home/cherish/temp/learn_cmake/Demo5/math/MatchFunctions.h
+
